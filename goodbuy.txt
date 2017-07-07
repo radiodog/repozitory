@@ -1,1 +1,2 @@
-print("goodbuy world");
+print("goodbye world");
+print("goodbye");
